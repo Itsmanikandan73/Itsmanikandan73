@@ -5,8 +5,6 @@
 I'm a self-taught learner. welcome to my gitHub page 
 
 
-I'm currently working on Binary AND decimal convertion tool
-
 I'm currently learning Nasm x86(32-bit) assembly language
 
 I'm looking for help with build base 2 computer emulator
