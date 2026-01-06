@@ -1,6 +1,6 @@
-## Itsmanikandan73
+# Itsmanikandan73
 
-# About me
+## About me
 
 My name is Itsmanikandan73, I'm a self-taught learner . welcome to my gitHub page 
 
