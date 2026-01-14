@@ -2,12 +2,16 @@
 
 ## About me
 
-I'm a self-taught learner. welcome to my gitHub page 
+I'm a self-taught Aspiring Hacker. welcome to my gitHub page!!
 
+I'm currently learning Nasm x86(32-bit) and 64(bit) assembly language for reverse engineering.
 
-I'm currently learning Nasm x86(32-bit) assembly language
+I also play CTFs, four platform i often play
 
-I'm looking for help with build base 2 computer emulator
+TryHackme
+HacktheBox
+picoCTF
+overthewire
 
 
 <!--
