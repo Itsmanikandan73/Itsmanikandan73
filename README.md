@@ -6,12 +6,9 @@ I'm a self-taught Aspiring Hacker. welcome to my gitHub page!!
 
 I'm currently learning Nasm x86(32-bit) and 64(bit) assembly language for reverse engineering.
 
-I also play CTFs, four platform i often play
+I also play CTFs, four platform i often play....
 
-TryHackme
-HacktheBox
-picoCTF
-overthewire
+TryHackme                                                                                                                                                                                                                                          HacktheBox                                                                                                                                                                                                                                         picoCTF                                                                                                                                                                                                                                            overthewire(linux)
 
 
 <!--
