@@ -3,7 +3,7 @@
 ### Aspiring Pentester | Self-Taught | Low-Level Enthusiast
 
 I am a cybersecurity student focused on **Reverse Engineering** and **Binary Exploitation**.
-Currently, I am deep-diving into **NASM x86 (32-bit & 64-bit) Assembly** to understand memory corruption and shellcode development.
+Currently, I am deep-diving into **NASM x86(32-bit) Assembly** to understand memory corruption and shellcode development.
 
 ---
 
