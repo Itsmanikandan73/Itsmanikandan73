@@ -19,4 +19,4 @@ I actively train and compete on the following platforms:
 
 ### 💬 Join My Community
 I recently started a Discord community for low-level programming and pentesting study.
-**[Click here to join the Solo_Shell Server]()**
+**[Click here to join the Solo_Shell Server](https://discord.gg/Jm9gXbxf4V)**
