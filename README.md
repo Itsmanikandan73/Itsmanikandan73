@@ -1,27 +1,22 @@
-# Itsmanikandan73
+# Hi, I'm solo_shell 🛡️
 
-## About me
+### Aspiring Pentester | Self-Taught | Low-Level Enthusiast
 
-I'm a self-taught Aspiring Hacker. welcome to my gitHub page!!
+I am a cybersecurity student focused on **Reverse Engineering** and **Binary Exploitation**.
+Currently, I am deep-diving into **NASM x86 (32-bit & 64-bit) Assembly** to understand memory corruption and shellcode development.
 
-I'm currently learning Nasm x86(32-bit) and 64(bit) assembly language for reverse engineering.
+---
 
-I also play CTFs, four platform i often play....
+### 🚩 CTF Platforms
+I actively train and compete on the following platforms:
 
-TryHackme                                                                                                                                                                                                                                          HacktheBox                                                                                                                                                                                                                                         picoCTF                                                                                                                                                                                                                                            overthewire(linux)
+* **TryHackMe**
+* **HackTheBox**
+* **picoCTF**
+* **OverTheWire** (Wargames)
 
+---
 
-<!--
-**Itsmanikandan73/Itsmanikandan73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Join My Community
+I recently started a Discord community for low-level programming and pentesting study.
+**[Click here to join the Solo_Shell Server]()**
