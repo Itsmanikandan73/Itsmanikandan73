@@ -1,14 +1,15 @@
-# Hi, I'm solo_shell 🛡️
+# It's solo_shell 
 
-### Aspiring Pentester | Self-Taught | Low-Level Enthusiast
+### I just build things that break things | void *whoami(void *arg)
 
-I am a cybersecurity student focused on **Reverse Engineering** and **Binary Exploitation**.
-Currently, I am deep-diving into **NASM x86(32-bit) Assembly** to understand memory corruption and shellcode development.
+I am just self-taught security reseacher focused on **Reverse Engineering** and **Low-level Programming**.
+
+Currently, I am deep-diving into **x86 Assembly** to understand memory layout and architecture. I build **custom security tools** and **educational exploits** to master these concepts.
 
 ---
 
-### 🚩 CTF Platforms
-I actively train and compete on the following platforms:
+### Training Grounds
+I practice my skill and learn new technique on following platforms:
 
 * **TryHackMe**
 * **HackTheBox**
@@ -17,6 +18,6 @@ I actively train and compete on the following platforms:
 
 ---
 
-### 💬 Join My Community
-I recently started a Discord community for low-level programming and pentesting study.
+### Join My Community
+I also recently started a Discord community for low-level stuff.
 **[Click here to join the Solo_Shell Server](https://discord.gg/Jm9gXbxf4V)**
