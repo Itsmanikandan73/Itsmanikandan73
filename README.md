@@ -9,7 +9,7 @@ Currently, I am deep-diving into **x86 Assembly** to understand memory layout an
 ---
 
 ### Training Grounds
-I practice my skill and learn new technique on following platforms:
+I practice my skills and learn new techniques on the following platforms:
 
 * **TryHackMe**
 * **HackTheBox**
