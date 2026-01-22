@@ -1,21 +1,20 @@
-# It's solo_shell 
+# It is solo_shell 
 
-### I just build things that break things | void *whoami(void *arg)
+### I just build things that break things | [curiosity kills the cat]
 
-I am just self-taught security reseacher focused on **Reverse Engineering** and **Low-level Programming**.
+I am just self-taught [i am not gonna call myself anything] focused on **Reverse Engineering** , **Binary Exploitation** and **Low-level Programming**.
 
-Currently, I am deep-diving into **x86 Assembly** to understand memory layout and architecture. I build **custom security tools** and **educational exploits** to master these concepts.
+Currently, I am deep-diving into **x86 Assembly** to understand memory layout and architecture. I build **custom security tools** and **educational exploits** to master these concepts. Actually i just store my codes on privately!!
 
 ---
 
 ### Training Grounds
 I practice my skills and learn new techniques on the following platforms:
 
-* **TryHackMe**
-* **HackTheBox**
-* **picoCTF**
+* **CryptoHack**
+* **PicoCTF**
 * **OverTheWire** (Wargames)
-
+* **Tryhackme**
 ---
 
 ### Join My Community
