@@ -2,9 +2,9 @@
 
 ### I just build things that break things | [curiosity kills the cat]
 
-I am just self-taught [i am not gonna call myself anything] focused on **Reverse Engineering** , **Binary Exploitation** and **Low-level Programming**.
+I am just self-taught [I'm not gonna call myself anything] focused on **Reverse Engineering** , **Binary Exploitation** and **Low-level Programming**.
 
-Currently, I am deep-diving into **x86 Assembly** to understand memory layout and architecture. I build **custom security tools** and **educational exploits** to master these concepts. Actually i just store my codes privately..):
+Currently, I am deep-diving into **x86 Assembly** to understand memory layout and architecture. I build **custom security tools** and **educational exploits** to master these concepts. Actually i just store my codes privately!!
 
 ---
 
