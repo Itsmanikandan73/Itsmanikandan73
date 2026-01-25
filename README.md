@@ -14,7 +14,7 @@ I practice my skills and learn new techniques on the following platforms:
 * **CryptoHack**
 * **pwn.college**
 * **PicoCTF**
-* **OverTheWire** (Wargames)
+* **OverTheWire**
 * **Tryhackme**
 ---
 
