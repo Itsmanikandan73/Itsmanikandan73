@@ -86,6 +86,7 @@ A simple Caesar cipher decoder written in Python.
 
 * 🌍 Website: [https://itsmanikandan73.github.io/soloshell.dev/](https://itsmanikandan73.github.io/soloshell.dev/)
 * 💻 GitHub: [https://github.com/Itsmanikandan73](https://github.com/Itsmanikandan73)
+* Discord:  [https://discord.com/solo_shell](https://discord.gg/Jm9gXbxf4V)
 
 ---
 
