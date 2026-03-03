@@ -1,4 +1,4 @@
-# Solo_shell
+# x86owl
 
 Vulnerability researcher building expertise in binary exploitation and reverse engineering.
 
@@ -12,5 +12,5 @@ Vulnerability researcher building expertise in binary exploitation and reverse e
 
 **Active:** pwn.college, CryptoHack, custom exploitation labs
 
-[Discord](https://discord.gg/Jm9gXbxf4V) | [Website](https://itsmanikandan73.github.io/soloshell.dev/)
+[Discord](https://discord.gg/Jm9gXbxf4V) | [Website](https://itsmanikandan73.github.io/x86owl.dev/)
 
