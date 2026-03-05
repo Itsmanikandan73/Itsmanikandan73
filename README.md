@@ -1,4 +1,4 @@
-# x86owl
+# x86owl 🦉
 
 Vulnerability researcher building expertise in binary exploitation and reverse engineering.
 
